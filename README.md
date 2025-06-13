@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:
+# Date:4.5.25
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
